@@ -1,4 +1,4 @@
-"version": "3.0",
+"version": "3.1",
 	"download": "https://ye-mods.blogspot.com/2021/05/yewhatsapp.html?m=1",
 	"update": [
 		{
